@@ -1,0 +1,2 @@
+# -ncryption-decryption-messages-using-microcontroller-s-MSP430F5438A-AD-conversion
+The message entered by a user in a computer’s terminal are encrypted/decrypted using microcontroller’s AD conversion. After the conversion, the user receives encrypted/decrypted message. Simultaneously, the microcontroller turns on led diodes. Intensity of each led diode depends on values inside of encrypted/decrypted message. Written in C.
